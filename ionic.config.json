@@ -1,0 +1,7 @@
+{
+  "name": "jogo-do-mario-webapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
