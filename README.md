@@ -18,7 +18,7 @@ Após baixar o repositorio, abra o terminal dentro da pasta e digite:
 ionic serve
 ```
 
-Em seguida irá abrir o seu navegador padrão com o Minigame.
+E então irá abrir o seu navegador padrão com o Minigame.
 
 Aproveite 😊
 
